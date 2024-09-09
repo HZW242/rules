@@ -1,3 +1,4 @@
 # G
 # From https://github.com/ACL4SSR/ACL4SSR/issues/121#issuecomment-1793673237
 DOMAIN-SUFFIX,mypikpak.com
+IP-CIDR,91.210.165.0/24,no-resolve
